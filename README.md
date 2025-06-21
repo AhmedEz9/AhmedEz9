@@ -3,7 +3,7 @@
   <img src="https://github.com/AhmedEz9/AhmedEz9/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png?raw=true" alt="Ahmed Ezzaroui Banner" />
 </p>
 
-🎓 Bachelor of Engineering in ICT (Software Engineering)  
+🎓 Bachelor of Engineering in ICT at **Metropolia University of Applied Sciences**  
 💻 Passionate about **Full Stack Development**, **AI**, and **Big Data**  
 🌍 Based in Helsinki, Finland  
 🧠 Currently learning: **AI technologies** and **Big Data frameworks**
