@@ -37,7 +37,7 @@
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github.com/AhmedEz9/AhmedEz9/raw/main/github-contribution-grid-snake.svg" alt="Ahmed's Contribution Graph" />
+  <img src="https://ghchart.rshah.org/61dafb/AhmedEz9" alt="Ahmed's GitHub Contribution Chart" />
 </p>
 
 <p align="center">
@@ -48,6 +48,10 @@
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedEz9&theme=tokyonight" alt="GitHub Streak" /></td>
     </tr>
   </table>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedEz9&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
