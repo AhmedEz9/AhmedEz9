@@ -36,11 +36,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedEz9&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEz9&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedEz9&theme=tokyonight" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=AhmedEz9&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEz9&layout=compact&theme=tokyonight" alt="Most Used Languages" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedEz9&theme=tokyonight" alt="GitHub Streak" /></td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -52,3 +54,4 @@
 ---
 
 *Thanks for visiting! Feel free to explore my projects or reach out for collaborations.*
+
