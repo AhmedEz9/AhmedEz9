@@ -33,6 +33,59 @@
 
 ---
 
+## 🔥 Featured Projects
+
+### 📱 [Nokia Feedback Swiper](https://github.com/duckbat/nokia-swiper)
+A feedback swiper app developed for the Nokia Garage event, designed to collect quick user feedback in an interactive format.
+
+- 🔧 Tech: JavaScript, HTML/CSS
+- 🏢 Collaborated at Nokia Garage event
+- 📂 [Repo](https://github.com/duckbat/nokia-swiper)
+
+---
+
+### 💬 [Chatly - Real-Time Chat App](https://github.com/AhmedEz9/chat-app)
+A real-time chat application with custom rooms and nicknames. Built using Node.js and Socket.IO, and deployed on Azure.
+
+- 🔧 Tech: Node.js, Express, Socket.IO
+- 🌐 Live: *[hosted on Azure]* (link optional)
+- 📂 [Repo](https://github.com/AhmedEz9/chat-app)
+
+---
+
+### 🌱 [EcoVoyage](https://github.com/AhmedEz9/EcoVoyage)
+A mobile app that promotes eco-friendly travel by educating users on sustainable tourism practices.
+
+- 🔧 Tech: React Native, Expo
+- 📂 [Repo](https://github.com/AhmedEz9/EcoVoyage)
+
+---
+
+### 🍽️ [Elysium Food Ordering System](https://github.com/siikabb/web-projekti)
+A food ordering system for a fictional restaurant, built for a university course project at Metropolia UAS.
+
+- 🔧 Tech: HTML, CSS, JavaScript, Node.js, MySQL
+- 🧑‍💻 Team Project
+- 📂 [Repo](https://github.com/siikabb/web-projekti)
+
+---
+
+### 🧠 [AI Image Generator](https://github.com/AhmedEz9/AI-Image-Generator)
+Generates unique images from text prompts using OpenAI's API.
+
+- 🔧 Tech: Node.js, OpenAI API
+- 📂 [Repo](https://github.com/AhmedEz9/AI-Image-Generator)
+
+---
+
+### 🗨️ [AI Comment Generator](https://github.com/AhmedEz9/AI-Comment-Generator)
+Automatically creates YouTube comment replies in different tones like sarcastic or funny using AI.
+
+- 🔧 Tech: Node.js, OpenAI API
+- 📂 [Repo](https://github.com/AhmedEz9/AI-Comment-Generator)
+
+---
+
 ## 📊 GitHub Stats
 
 <!-- Contribution Graph -->
