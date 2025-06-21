@@ -3,8 +3,6 @@
   <img src="https://github.com/AhmedEz9/AhmedEz9/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png?raw=true" alt="Ahmed Ezzaroui Banner" />
 </p>
 
-# 👋 Hi, I'm Ahmed
-
 🎓 Bachelor of Engineering in ICT (Software Engineering)  
 💻 Passionate about **Full Stack Development**, **AI**, and **Big Data**  
 🌍 Based in Helsinki, Finland  
