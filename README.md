@@ -37,7 +37,7 @@
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/61dafb/AhmedEz9" alt="Ahmed's GitHub Contribution Chart" />
+  <img src="https://github.com/AhmedEz9/AhmedEz9/raw/main/github-contribution-grid-snake.svg" alt="Ahmed's Contribution Graph" />
 </p>
 
 <p align="center">
