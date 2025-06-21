@@ -35,6 +35,11 @@
 
 ## 📊 GitHub Stats
 
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/61dafb/AhmedEz9" alt="Ahmed's GitHub Contribution Chart" />
+</p>
+
 <p align="center">
   <table>
     <tr>
