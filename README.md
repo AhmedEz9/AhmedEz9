@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://previews.dropbox.com/p/thumb/ACqhlqLbAjrKWOVp-7R7BJ-Efdpe_zRl5HzFkmPtp_HGvtL5iMsNRtWPf1_R-CUVnGfGeRZwh5IBfZ0SwsVXYaMlr__tdzRkLQR6ql61wlkDZx0HE5IHkHRfBMBoUIdOuGZwKpGW-FzvT1w0Yez3kSUGRVQzgJ5NaHpYFqMQgwyeJAImONHW6MNFieVu19iFcnzKdC3Oo2tbetOZwt97eAMj5zUBan1G1m3-_TVMi8PvtgcW3CWwl7GTq_oR3Hg433z-1UZ8Qd9SyaBukm_o3B1yTzrIGiz9iLy7vjItBPqYcp9-knV3fTIN09jt3S44DTYzygrWEui7mqPKvHNkABpv/p.png?is_prewarmed=true" alt="Ahmed Ezzaroui Banner" />
+  <img src="https://github.com/AhmedEz9/AhmedEz9/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png?raw=true" alt="Ahmed Ezzaroui Banner" />
 </p>
 
 # 👋 Hi, I'm Ahmed
