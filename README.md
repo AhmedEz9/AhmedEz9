@@ -1,73 +1,89 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://github.com/AhmedEz9/AhmedEz9/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png?raw=true" alt="Ahmed Ezzaroui Banner" />
 </p>
 
-🎓 Bachelor of Engineering in ICT at **Metropolia University of Applied Sciences**  
-💻 Passionate about **Full Stack Development**, **AI**, and **Big Data**  
-🌍 Based in Helsinki, Finland  
-🧠 Currently learning: **AI technologies** and **Big Data frameworks**
+<h1 align="center">Hi there, I'm Ahmed! 👋</h1>
+
+<p align="center">
+  🎓 <b>ICT Engineering Student</b> at Metropolia UAS<br>
+  💻 <b>Full Stack Developer</b> specializing in React, Node.js & AWS<br>
+  🧠 Passionate about <b>AI Integrations</b> and <b>Cloud Architecture</b><br>
+  🌍 Based in Helsinki, Finland
+</p>
+
+<p align="center">
+  <i>"Building scalable web applications with a user-first mindset."</i>
+</p>
 
 ---
 
 ## 🧰 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
----
-
-## 🚀 Ongoing Projects
-
-- 🤖 **AI-Powered Job Matcher**  
-  Building a smart web app that uses OpenAI’s API to analyze job posts and match users with personalized job opportunities based on their skills and goals.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <br>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 📱 [Nokia Feedback Swiper](https://github.com/duckbat/nokia-swiper)
-A feedback swiper app developed for the Nokia Garage event, designed to collect quick user feedback in an interactive format.
+### 🏥 [HyMy-kylä Feedback System](https://github.com/TomiHenriksson8/hymykyla-feedback-system)
+**Client:** Metropolia UAS | **Stack:** React, Vite, Tailwind CSS, Node.js, MongoDB
+
+A full-stack digitalization project to streamline the feedback process for Metropolia’s wellbeing services.
+- **Frontend:** Responsive & accessible UI built with React + Vite.
+- **Backend:** Robust RESTful API handling data submission and administration.
+- **Impact:** Replaced manual paper forms with a fast, digital solution.
+
+---
+
+### 🤖 [Nokia Feedback Swiper](https://github.com/duckbat/nokia-swiper)
+**Client:** Nokia Oyj (Innovation Project) | **Stack:** Next.js, OpenAI API, Docker
+
+An AI-powered feedback tool developed for the Nokia Garage event.
+- **Features:** Tinder-style swipe interface for quick user engagement.
+- **AI Integration:** Uses OpenAI API to analyze sentiment from user feedback.
+- **DevOps:** Containerized with Docker for consistent deployment.
 
 ---
 
 ### 💬 [Chatly - Real-Time Chat App](https://github.com/AhmedEz9/chat-app)
-A real-time chat application with custom rooms and nicknames. Built using Node.js and Socket.IO, and deployed on Azure.
+A real-time messaging application supporting custom rooms and nicknames.
+- **Tech:** Node.js, Socket.IO, Azure Deployment.
 
 ---
 
 ### 🌱 [EcoVoyage](https://github.com/AhmedEz9/EcoVoyage)
-A mobile app that promotes eco-friendly travel by educating users on sustainable tourism practices.
+A mobile-first application promoting sustainable tourism practices.
+- **Tech:** React Native / JavaScript.
 
 ---
 
-### 🍽️ [Elysium Food Ordering System](https://github.com/siikabb/web-projekti)
-A food ordering system for a fictional restaurant, built for a university course project at Metropolia UAS.
+## 🚀 Ongoing & Side Projects
 
----
-
-### 🧠 [AI Image Generator](https://github.com/AhmedEz9/AI-Image-Generator)
-Generates unique images from text prompts using OpenAI's API.
-
----
-
-### 🗨️ [AI Comment Generator](https://github.com/AhmedEz9/AI-Comment-Generator)
-Automatically creates YouTube comment replies in different tones like sarcastic or funny using AI.
+- **🤖 AI-Powered Job Matcher** — Building a smart web app that uses LLMs to match user CVs with job descriptions.
+- **🧠 AI Image Generator** — [Repo Link](https://github.com/AhmedEz9/AI-Image-Generator) | Generates unique images from text prompts.
+- **🗨️ AI Comment Generator** — [Repo Link](https://github.com/AhmedEz9/AI-Comment-Generator) | Automates YouTube replies using AI.
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Contribution Graph -->
 <p align="center">
   <img src="https://ghchart.rshah.org/61dafb/AhmedEz9" alt="Ahmed's GitHub Contribution Chart" />
 </p>
@@ -75,9 +91,8 @@ Automatically creates YouTube comment replies in different tones like sarcastic 
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=AhmedEz9&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEz9&layout=compact&theme=tokyonight" alt="Most Used Languages" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedEz9&theme=tokyonight" alt="GitHub Streak" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=AhmedEz9&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEz9&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" /></td>
     </tr>
   </table>
 </p>
@@ -90,9 +105,8 @@ Automatically creates YouTube comment replies in different tones like sarcastic 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Ezzaroui-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-ezzaroui/)
-
----
-
-*Thanks for visiting! Feel free to explore my projects or reach out for collaborations.*
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-ezzaroui/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
