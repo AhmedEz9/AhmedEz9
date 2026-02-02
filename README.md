@@ -2,8 +2,6 @@
   <img src="https://github.com/AhmedEz9/AhmedEz9/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png?raw=true" alt="Ahmed Ezzaroui Banner" />
 </p>
 
-<h1 align="center">Hi there, I'm Ahmed! 👋</h1>
-
 <p align="center">
   🎓 <b>ICT Engineering Student</b> at Metropolia UAS<br>
   💻 <b>Full Stack Developer</b> specializing in React, Node.js & AWS<br>
@@ -79,6 +77,17 @@ A mobile-first application promoting sustainable tourism practices.
 - **🤖 AI-Powered Job Matcher** — Building a smart web app that uses LLMs to match user CVs with job descriptions.
 - **🧠 AI Image Generator** — [Repo Link](https://github.com/AhmedEz9/AI-Image-Generator) | Generates unique images from text prompts.
 - **🗨️ AI Comment Generator** — [Repo Link](https://github.com/AhmedEz9/AI-Comment-Generator) | Automates YouTube replies using AI.
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Focus |
+| :--- | :--- | :--- |
+| **AWS Academy Graduate** | Amazon Web Services | Cloud Foundations & Architecture |
+| **CCNA Routing & Switching** | Cisco | Network Infrastructure & Security |
+| **Microsoft Certified Professional** | Microsoft | Systems Administration |
+| **Building Serverless Apps** | LinkedIn Learning | AWS Lambda & API Gateway |
 
 ---
 
