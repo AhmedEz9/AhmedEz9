@@ -4,14 +4,10 @@
 
 <p align="center">
   🎓 <b>ICT Engineering Student</b> at Metropolia UAS<br>
-  💻 <b>Full Stack Developer</b> specializing in React, Node.js & AWS<br>
   🧠 Passionate about <b>AI Integrations</b> and <b>Cloud Architecture</b><br>
   🌍 Based in Helsinki, Finland
 </p>
 
-<p align="center">
-  <i>"Building scalable web applications with a user-first mindset."</i>
-</p>
 
 ---
 
